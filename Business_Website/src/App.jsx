@@ -7,6 +7,7 @@ function App() {
   return (
     <>
       <h1>Sabarish</h1>
+      <h2>Hi from MAc</h2>
     </>
   );
 }
